@@ -186,7 +186,7 @@ new TypeIt("#teks2", {
 
 
 new TypeIt("#trims", {
-  strings: ["ENJOY THE DAY..BYEE✨"],
+  strings: ["ENJOY THE DAY💙"],
   startDelay: 2000,
   speed: 150,
   loop: false,
